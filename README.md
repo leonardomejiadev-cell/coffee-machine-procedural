@@ -130,7 +130,7 @@ This project is part of my journey through Angela Yu's "100 Days of Code: The Co
 ## 👤 Author
 
 **Leonardo Mejia**
-- GitHub: [@leonardomejiadev-cell](https://github.com/yourusername)
+- GitHub: [@leonardomejiadev-cell](https://github.com/leonardomejiadev-cell)
 - Learning Journey: 100 Days of Code - Python
 
 ## 📝 Notes
