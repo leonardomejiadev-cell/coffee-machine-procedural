@@ -119,7 +119,7 @@ Here is your latte ☕️. Enjoy!
 
 This project was later refactored using Object-Oriented Programming (OOP) principles. Check out the OOP version to see how the same functionality can be implemented with classes and objects:
 
-**[Coffee Machine - OOP Version](https://github.com/YOUR-USERNAME/coffee-machine-oop)**
+**[Coffee Machine - OOP Version](https://github.com/leonardomejiadev-cell/coffee-machine-oop)**
 
 The OOP version demonstrates improved code organization, better maintainability, and enhanced scalability.
 
